@@ -1,4 +1,4 @@
-# Siemens-Project-Manager-SImulation
+# Siemens-Project-Manager-Simulation
 
 # Welcome to the Siemens Mobility Project Manager Job Simulation! 
 
